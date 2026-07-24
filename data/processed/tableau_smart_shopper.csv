@@ -1,0 +1,26 @@
+food_key,source_category,current_price_per_100g,current_adjusted_¥/g,overall_rank,cat_rank,beat_next_overall,beat_next_overall_ref,beat_next_in_cat,beat_next_in_cat_ref,beat_cat_winner,beat_cat_winner_ref,beat_overall_#1,beat_overall_#1_ref
+chicken_egg,poultry,53.2,3.75,1,1,N/A — #1 overall,,N/A — is category best,,N/A — is category best,,N/A — is overall #1,
+chicken_breast,poultry,86.2,3.82,2,2,84.4,chicken_egg,84.4,chicken_egg,84.4,chicken_egg,84.4,chicken_egg
+chicken_wing_moto,poultry,91.8,4.85,3,3,72.3,chicken_breast,72.3,chicken_breast,71.0,chicken_egg,71.0,chicken_egg
+natto,plant,72.0,5.46,4,1,64.0,chicken_wing_moto,N/A — is category best,,N/A — is category best,,49.5,chicken_egg
+tofu_momen,plant,36.6,5.47,5,2,36.5,natto,36.5,natto,36.5,natto,25.1,chicken_egg
+tofu_kinu,plant,36.6,6.89,6,3,29.0,tofu_momen,29.0,tofu_momen,29.0,natto,19.9,chicken_egg
+chicken_thigh,poultry,123.1,6.9,7,4,122.9,tofu_kinu,86.5,chicken_wing_moto,66.9,chicken_egg,66.9,chicken_egg
+soy_protein,plant,552.0,6.94,8,4,548.5,chicken_thigh,547.7,tofu_kinu,434.0,natto,298.1,chicken_egg
+canned_chicken,poultry,191.0,6.99,9,5,189.6,soy_protein,188.5,chicken_thigh,102.5,chicken_egg,102.5,chicken_egg
+milk_whole,dairy,25.5,7.11,10,1,25.1,canned_chicken,N/A — is category best,,N/A — is category best,,13.5,chicken_egg
+chicken_wing_tip,poultry,138.0,7.3,11,6,134.5,milk_whole,132.3,canned_chicken,71.0,chicken_egg,71.0,chicken_egg
+whey_protein,dairy,535.5,7.37,12,2,530.5,chicken_wing_tip,516.7,milk_whole,516.7,milk_whole,272.5,chicken_egg
+pork_loin,pork,171.0,7.6,13,1,165.9,whey_protein,N/A — is category best,,N/A — is category best,,84.4,chicken_egg
+canned_tuna,seafood,229.0,8.98,14,1,193.9,pork_loin,N/A — is category best,,N/A — is category best,,95.7,chicken_egg
+fresh_mackerel,seafood,180.0,9.68,15,2,167.0,canned_tuna,167.0,canned_tuna,167.0,canned_tuna,69.8,chicken_egg
+yogurt_plain,dairy,48.2,12.18,16,3,38.3,fresh_mackerel,29.2,whey_protein,28.1,milk_whole,14.8,chicken_egg
+quail_egg,poultry,193.0,13.09,17,7,179.6,yogurt_plain,107.6,chicken_wing_tip,55.3,chicken_egg,55.3,chicken_egg
+fresh_white_fish,seafood,200.0,13.1,18,3,199.9,quail_egg,147.8,fresh_mackerel,137.1,canned_tuna,57.3,chicken_egg
+greek_yogurt,dairy,153.6,13.54,19,4,148.6,fresh_white_fish,138.2,yogurt_plain,80.6,milk_whole,42.5,chicken_egg
+fresh_squid,seafood,232.0,14.89,20,4,211.0,greek_yogurt,204.1,fresh_white_fish,139.9,canned_tuna,58.4,chicken_egg
+beef_american_cab,beef,392.0,17.15,21,1,340.3,fresh_squid,N/A — is category best,,N/A — is category best,,85.7,chicken_egg
+edamame,plant,191.0,23.59,22,5,138.9,beef_american_cab,56.2,soy_protein,44.2,natto,30.4,chicken_egg
+fresh_tuna,seafood,569.0,24.39,23,5,550.4,edamame,347.4,fresh_squid,209.5,canned_tuna,87.5,chicken_egg
+fresh_salmon,seafood,563.0,28.38,24,6,483.9,fresh_tuna,483.9,fresh_tuna,178.2,canned_tuna,74.4,chicken_egg
+beef_wagyu_steak,beef,958.0,41.92,25,2,648.6,fresh_salmon,392.0,beef_american_cab,392.0,beef_american_cab,85.7,chicken_egg

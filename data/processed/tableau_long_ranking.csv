@@ -1,0 +1,76 @@
+food_key,source_category,metric,yen_per_g,rank,rank_change,diaas_score,price_jpy_per_100g,protein_g
+chicken_breast,poultry,Pre-DIAAS (raw),4.13,3,1,108,86.2,20.85
+chicken_breast,poultry,Post-DIAAS (quality-adjusted),3.82,2,1,108,86.2,20.85
+chicken_breast,poultry,Muscle cost efficiency,61.66,5,-2,108,86.2,20.85
+chicken_thigh,poultry,Pre-DIAAS (raw),7.45,8,1,108,123.1,16.52
+chicken_thigh,poultry,Post-DIAAS (quality-adjusted),6.9,7,1,108,123.1,16.52
+chicken_thigh,poultry,Muscle cost efficiency,98.72,9,-1,108,123.1,16.52
+chicken_wing_tip,poultry,Pre-DIAAS (raw),7.88,10,-1,108,138.0,17.52
+chicken_wing_tip,poultry,Post-DIAAS (quality-adjusted),7.3,11,-1,108,138.0,17.52
+chicken_wing_tip,poultry,Muscle cost efficiency,103.14,10,0,108,138.0,17.52
+chicken_wing_moto,poultry,Pre-DIAAS (raw),5.24,6,3,108,91.8,17.52
+chicken_wing_moto,poultry,Post-DIAAS (quality-adjusted),4.85,3,3,108,91.8,17.52
+chicken_wing_moto,poultry,Muscle cost efficiency,68.61,7,-1,108,91.8,17.52
+canned_chicken,poultry,Pre-DIAAS (raw),7.55,9,0,108,191.0,25.3
+canned_chicken,poultry,Post-DIAAS (quality-adjusted),6.99,9,0,108,191.0,25.3
+canned_chicken,poultry,Muscle cost efficiency,117.47,13,-4,108,191.0,25.3
+pork_loin,pork,Pre-DIAAS (raw),8.66,12,-1,114,171.0,19.74
+pork_loin,pork,Post-DIAAS (quality-adjusted),7.6,13,-1,114,171.0,19.74
+pork_loin,pork,Muscle cost efficiency,118.59,14,-2,114,171.0,19.74
+beef_american_cab,beef,Pre-DIAAS (raw),19.04,22,1,111,392.0,20.59
+beef_american_cab,beef,Post-DIAAS (quality-adjusted),17.15,21,1,111,392.0,20.59
+beef_american_cab,beef,Muscle cost efficiency,275.09,22,0,111,392.0,20.59
+beef_wagyu_steak,beef,Pre-DIAAS (raw),46.53,25,0,111,958.0,20.59
+beef_wagyu_steak,beef,Post-DIAAS (quality-adjusted),41.92,25,0,111,958.0,20.59
+beef_wagyu_steak,beef,Muscle cost efficiency,672.28,25,0,111,958.0,20.59
+fresh_salmon,seafood,Pre-DIAAS (raw),28.38,24,0,100,563.0,19.84
+fresh_salmon,seafood,Post-DIAAS (quality-adjusted),28.38,24,0,100,563.0,19.84
+fresh_salmon,seafood,Muscle cost efficiency,393.98,24,0,100,563.0,19.84
+fresh_mackerel,seafood,Pre-DIAAS (raw),9.68,15,0,100,180.0,18.6
+fresh_mackerel,seafood,Post-DIAAS (quality-adjusted),9.68,15,0,100,180.0,18.6
+fresh_mackerel,seafood,Muscle cost efficiency,132.55,16,-1,100,180.0,18.6
+fresh_squid,seafood,Pre-DIAAS (raw),14.89,19,-1,100,232.0,15.58
+fresh_squid,seafood,Post-DIAAS (quality-adjusted),14.89,20,-1,100,232.0,15.58
+fresh_squid,seafood,Muscle cost efficiency,217.43,20,-1,100,232.0,15.58
+fresh_white_fish,seafood,Pre-DIAAS (raw),13.1,16,-2,100,200.0,15.27
+fresh_white_fish,seafood,Post-DIAAS (quality-adjusted),13.1,18,-2,100,200.0,15.27
+fresh_white_fish,seafood,Muscle cost efficiency,174.22,18,-2,100,200.0,15.27
+fresh_tuna,seafood,Pre-DIAAS (raw),24.39,23,0,100,569.0,23.33
+fresh_tuna,seafood,Post-DIAAS (quality-adjusted),24.39,23,0,100,569.0,23.33
+fresh_tuna,seafood,Muscle cost efficiency,349.72,23,0,100,569.0,23.33
+canned_tuna,seafood,Pre-DIAAS (raw),8.98,13,-1,100,229.0,25.51
+canned_tuna,seafood,Post-DIAAS (quality-adjusted),8.98,14,-1,100,229.0,25.51
+canned_tuna,seafood,Muscle cost efficiency,130.78,15,-2,100,229.0,25.51
+natto,plant,Pre-DIAAS (raw),3.71,1,-3,68,72.0,19.4
+natto,plant,Post-DIAAS (quality-adjusted),5.46,4,-3,68,72.0,19.4
+natto,plant,Muscle cost efficiency,57.14,4,-3,68,72.0,19.4
+tofu_momen,plant,Pre-DIAAS (raw),4.05,2,-3,74,36.6,9.04
+tofu_momen,plant,Post-DIAAS (quality-adjusted),5.47,5,-3,74,36.6,9.04
+tofu_momen,plant,Muscle cost efficiency,50.0,3,-1,74,36.6,9.04
+tofu_kinu,plant,Pre-DIAAS (raw),5.1,5,-1,74,36.6,7.17
+tofu_kinu,plant,Post-DIAAS (quality-adjusted),6.89,6,-1,74,36.6,7.17
+tofu_kinu,plant,Muscle cost efficiency,64.1,6,-1,74,36.6,7.17
+chicken_egg,poultry,Pre-DIAAS (raw),4.24,4,3,113,53.2,12.56
+chicken_egg,poultry,Post-DIAAS (quality-adjusted),3.75,1,3,113,53.2,12.56
+chicken_egg,poultry,Muscle cost efficiency,48.41,2,2,113,53.2,12.56
+quail_egg,poultry,Pre-DIAAS (raw),14.79,18,1,113,193.0,13.05
+quail_egg,poultry,Post-DIAAS (quality-adjusted),13.09,17,1,113,193.0,13.05
+quail_egg,poultry,Muscle cost efficiency,169.15,17,1,113,193.0,13.05
+milk_whole,dairy,Pre-DIAAS (raw),8.1,11,1,114,25.5,3.15
+milk_whole,dairy,Post-DIAAS (quality-adjusted),7.11,10,1,114,25.5,3.15
+milk_whole,dairy,Muscle cost efficiency,46.28,1,10,114,25.5,3.15
+yogurt_plain,dairy,Pre-DIAAS (raw),13.89,17,1,114,48.2,3.47
+yogurt_plain,dairy,Post-DIAAS (quality-adjusted),12.18,16,1,114,48.2,3.47
+yogurt_plain,dairy,Muscle cost efficiency,82.11,8,9,114,48.2,3.47
+greek_yogurt,dairy,Pre-DIAAS (raw),15.44,20,1,114,153.6,9.95
+greek_yogurt,dairy,Post-DIAAS (quality-adjusted),13.54,19,1,114,153.6,9.95
+greek_yogurt,dairy,Muscle cost efficiency,215.73,19,1,114,153.6,9.95
+whey_protein,dairy,Pre-DIAAS (raw),9.21,14,2,125,535.5,58.14
+whey_protein,dairy,Post-DIAAS (quality-adjusted),7.37,12,2,125,535.5,58.14
+whey_protein,dairy,Muscle cost efficiency,106.76,11,3,125,535.5,58.14
+soy_protein,plant,Pre-DIAAS (raw),6.25,7,-1,90,552.0,88.32
+soy_protein,plant,Post-DIAAS (quality-adjusted),6.94,8,-1,90,552.0,88.32
+soy_protein,plant,Muscle cost efficiency,110.0,12,-5,90,552.0,88.32
+edamame,plant,Pre-DIAAS (raw),16.04,21,-1,68,191.0,11.91
+edamame,plant,Post-DIAAS (quality-adjusted),23.59,22,-1,68,191.0,11.91
+edamame,plant,Muscle cost efficiency,263.09,21,0,68,191.0,11.91
