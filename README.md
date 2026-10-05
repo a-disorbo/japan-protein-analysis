@@ -208,7 +208,6 @@ IAA completeness assessed against FAO/WHO (2013) reference pattern for older chi
 ## Author
 
 Built as a portfolio project by Anthony DiSorbo — data analyst based in the greater Tokyo area.
-Targeting DA roles in Japan.
 
 [LinkedIn](https://www.linkedin.com/in/adisorbo/) · 
 [Tableau Public](https://public.tableau.com/app/profile/anthony.disorbo/vizzes)
